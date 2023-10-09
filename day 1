@@ -1,0 +1,16 @@
+package pkg100.days.first.day;
+
+public class DaysFirstDay {
+
+public static void main(String[] args) {
+        System.out.println("hello.world");
+        System.out.println("Hello.java");
+        System.out.println("Mahasiswa Informatika");
+        System.out.println("Informatika B 2023");
+        System.out.println("Informaic Study Club");
+        System.out.println("100 days of coding 2023");
+        System.out.println("100 days");
+        System.out.println("day 1 of 100");
+    }
+    
+}
