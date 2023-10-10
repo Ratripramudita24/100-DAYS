@@ -1,0 +1,23 @@
+package pkg2.pkg100days;
+public class Main {
+    public static void main(String[] args) {
+        String nama_depan, nama_belakang, alamat, kewarganegaraan;
+        nama_depan= "ratri ";
+        nama_belakang= "pramudita";
+        alamat = "jl korban 40000 jiwa";
+        kewarganegaraan = "Indonesia";
+        int umur = 19;
+        char jenis_kelamin = 'p';
+        double tinggi_badan = 149.8;
+        
+        System.out.println("Biodata Diri");
+        System.out.println("Nama: " + nama_depan + nama_belakang);
+        System.out.println("Kewarganegaraan: " + kewarganegaraan);
+        System.out.println("Alamat: " + alamat);
+        System.out.println("Umur: " + umur + " tahun");
+        System.out.println("Jenis kelamin: " + jenis_kelamin);
+        System.out.println("Tinggi badan: " + tinggi_badan + " cm");
+        // TODO code application logic here
+    }
+    
+}
