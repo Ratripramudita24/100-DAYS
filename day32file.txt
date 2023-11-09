@@ -1,0 +1,6 @@
+Nama    : Dita
+Univ    : Universitas Sulawesi Barat
+Fakultas    : Teknik
+Prodi   : Informatika
+Class   : INF B
+Tahun   : T 2023
