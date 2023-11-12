@@ -1,0 +1,12 @@
+Nama    : Ditha
+kelas   : INF B
+
+                                *materi pertidaksamaan nilai mutlak*
+1. tentukan nilai x yang memenuhi pertidaksamaan |3x - 2| > 4menggunakan bentuk umum!
+    jawab :
+                        |3x - 2| > 4
+               3x - 2 < -4  atau  3x -2 > 4
+               3x < -4 + 2  atau  3x > 4 + 2
+                  3x < -2   atau  3x > 6
+                   x < -2/3 atau  x > 2
+    jadi x < -2/3  atau x > 2
