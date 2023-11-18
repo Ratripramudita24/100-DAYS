@@ -13,10 +13,10 @@ public class day16_switch_case {
         switch (bulan) {
             case 1:
                 System.out.println("bulan ke "+bulan+" adalah bulan januari");
-                break;
+//                break;
             case 2: 
                 System.out.println("bulan ke "+bulan+" adalah bulan februari");
-                break;
+//                break;
             case 3:
                 System.out.println("bulan ke "+bulan+" adalah bulan maret");
                 break;

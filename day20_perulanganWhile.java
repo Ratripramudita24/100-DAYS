@@ -4,7 +4,7 @@ public class day20_perulanganWhile {
      int angka = 100;
      while (angka <= 130 && angka >=70) {
          System.out.println("angka: " + angka);
-         angka--;
+//         angka--;
      }if (angka > 2) {
          System.out.println("bagus");
      }else {
